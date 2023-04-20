@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-hw2-feedback/static/css/main.e4aa7024.css",
+    "main.js": "/r-hw2-feedback/static/js/main.65124b9a.js",
+    "index.html": "/r-hw2-feedback/index.html",
+    "main.e4aa7024.css.map": "/r-hw2-feedback/static/css/main.e4aa7024.css.map",
+    "main.65124b9a.js.map": "/r-hw2-feedback/static/js/main.65124b9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4aa7024.css",
+    "static/js/main.65124b9a.js"
+  ]
+}
