@@ -1,0 +1,22 @@
+.StatisticSection {
+    display: flex;
+    flex-direction: column;
+}
+
+.StatisticsList {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+
+    font-size: 17px;
+}
+
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+span {
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
